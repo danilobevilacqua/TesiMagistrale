@@ -1,0 +1,3 @@
+Unico paths All States Coverage 
+pad spostato: sinistra
+Test concluso senza errori 

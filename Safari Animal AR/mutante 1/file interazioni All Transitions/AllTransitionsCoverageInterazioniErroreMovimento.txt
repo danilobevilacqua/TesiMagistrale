@@ -1,0 +1,11 @@
+Unico paths All Transitions Coverage 
+bottone cliccato: Zebra
+bottone cliccato: Rhino
+bottone cliccato: Lion
+bottone cliccato: Gorilla
+bottone cliccato: Giraffe
+bottone cliccato: Elephant
+pad spostato: su
+pad spostato: su
+pad spostato: giu
+pad spostato: destra

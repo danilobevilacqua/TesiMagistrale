@@ -1,0 +1,7 @@
+PATHS LUNGHEZZA 3 
+
+path 1
+bottone cliccato: Zebra
+
+path 2
+bottone cliccato: Rhino

@@ -1,0 +1,32 @@
+PATHS LUNGHEZZA 3 
+
+path 1
+bottone cliccato: Zebra
+
+path 2
+bottone cliccato: Rhino
+
+path 3
+bottone cliccato: Lion
+
+path 4
+bottone cliccato: Gorilla
+
+path 5
+bottone cliccato: Giraffe
+
+path 6
+bottone cliccato: Elephant
+
+PATHS LUNGHEZZA 4 
+path 1
+bottone cliccato: Zebra
+pad spostato: su
+
+path 2
+bottone cliccato: Zebra
+pad spostato: giu
+
+path 3
+bottone cliccato: Zebra
+pad spostato: destra

@@ -1,6 +1,6 @@
 # Testing di applicazioni AR Mobile
 Prima di descrivere i passi mediante i quali replicare i test condotti, si illustrano i file e le cartelle presenti all'interno del repository. All'inizio della gerarchia sono presenti due cartelle e un file:
-* Analisi Log, file .jar il necessario per l'analisi dei file di log (come sarà mostrato di seguito);
+* Analisi Log, file .jar, necessario per l'analisi dei file di log (come sarà mostrato di seguito);
 * Safari Animal AR;
 * Point AR.
 

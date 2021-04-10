@@ -40,7 +40,7 @@ Si comincia installando gli ambienti necessari:
 Di seguito si mostrerà come utilizzare gli ambienti sopraccitati per condurre i test su ciascuna delle due applicazioni AR.
 
 ### Safari Animal AR
-Di seguito saranno definiti i passi da seguire per importare l'applicazione Safari Animal AR in locale. Si noti che quanto sarà spiegato potrà essere bypassato scaricando direttamente il [file apk] (https://github.com/danilobevilacqua/TesiMagistrale/blob/main/Safari%20Animal%20AR/applicazione/safari.apk). E' necessario scaricare dal repository [Safari AR](https://github.com/abdullahibneat/SafariAnimalsAR) e seguire le istruzioni della sezione How to use del medesimo repository. Successivamente bisognerà cambiare il marker seguendo i successivi passi:
+Di seguito saranno definiti i passi da seguire per importare l'applicazione Safari Animal AR in locale. Si noti che quanto sarà spiegato potrà essere bypassato scaricando direttamente il [file apk](https://github.com/danilobevilacqua/TesiMagistrale/blob/main/Safari%20Animal%20AR/applicazione/safari.apk). E' necessario scaricare dal repository [Safari AR](https://github.com/abdullahibneat/SafariAnimalsAR) e seguire le istruzioni della sezione How to use del medesimo repository. Successivamente bisognerà cambiare il marker seguendo i successivi passi:
 1. aprire il progetto con UnityHub;
 1. selezionare il GameObject Image Target dalla gerarchia di oggetti;
 2. dalla sezione Inspector, alla voce Database selezionare VuforiaMars_Images e alla voce Image Target selezionare Astronaut;

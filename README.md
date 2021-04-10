@@ -24,7 +24,17 @@ Descritto il contenuto del repository, si passa a dettagliare come replicare qua
 
 ## Installazione Tools
 Si comincia installando gli ambienti necessari:
-1. installazione dell'engine unity versione 2018.4.30f1, scaricabile dal [sito ufficiale](https://unity3d.com/get-unity/download/archive)
+1. installazione dell'engine unity versione 2018.4.30f1, scaricabile dal [sito ufficiale](https://unity3d.com/get-unity/download/archive). E' Necessario intallare anche UnityHub (sempre dal medesimo link) poichè esso permette la gestione di diverse versioni di Unity e l'aggiunta di eventuali moduli;
+2. dopo aver installato UnityHub, avviarlo e scegliere la tab installs, cliccare i tre pallini relativi al box della versione Unity, cliccare Add Modules dal menù a tendina, spuntare Vuforia Augmented Reality e Support e Android Build Support, infine cliccare Done. Una volta terminata l'installazione, nel box della versione Unity compariranno le relative icone dei moduli installati;
+3. scaricare AirTestIDE dal [sito ufficiale](https://airtest.netease.com/), estrarre il contenuto dello zip e posizionarlo sul Desktop. E' necessario posizionarlo sul Desktop al fine di permettere il corretto funzionamento degli script di test e del .jar Analisi Log;
+4. scaricara Poco-SDK dal [sito ufficiale](https://github.com/AirtestProject/Poco-SDK);
+5. installare Android Studio dal [sito ufficiale](https://developer.android.com/studio);
+6. dopo aver installato android studio, avviarlo e creare un dispositivo virtuale con le seguenti caratteristiche:
+  1. modello smartphone: Pixel 2;
+  2. sistema operativo: Android 8.1 Oreo;
+  3. Livello API: 27;
+  4. RAM: 1536 MB;
+  5. Spazio di Archiviazione: 2048 MB interno + 512 MB SD-CARD.
 
 
 

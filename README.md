@@ -30,18 +30,14 @@ Si comincia installando gli ambienti necessari:
 4. scaricara Poco-SDK dal [sito ufficiale](https://github.com/AirtestProject/Poco-SDK);
 5. installare Android Studio dal [sito ufficiale](https://developer.android.com/studio);
 6. dopo aver installato android studio, avviarlo e creare un dispositivo virtuale con le seguenti caratteristiche:
-  1. modello smartphone: Pixel 2;
-  2. sistema operativo: Android 8.1 Oreo;
-  3. Livello API: 27;
-  4. RAM: 1536 MB;
-  5. Spazio di Archiviazione: 2048 MB interno + 512 MB SD-CARD.
+  6.1. modello smartphone: Pixel 2;
+  6.2. sistema operativo: Android 8.1 Oreo;
+  6.3. Livello API: 27;
+  6.4. RAM: 1536 MB;
+  6.5. Spazio di Archiviazione: 2048 MB interno + 512 MB SD-CARD.
 
 
-1. Item 1
-1. Item 2
-1. Item 3
-  1. Item 3a
-  1. Item 3b
+
 
 
 

@@ -1,0 +1,10 @@
+playbackspeed.Start
+AutoFocus.Start
+AutoFocus.OnVuforiaStarted
+translate.Start
+AutoFocus.OnPaused
+playbackspeed.Start
+AutoFocus.Start
+AutoFocus.OnVuforiaStarted
+translate.Start
+AutoFocus.OnPaused

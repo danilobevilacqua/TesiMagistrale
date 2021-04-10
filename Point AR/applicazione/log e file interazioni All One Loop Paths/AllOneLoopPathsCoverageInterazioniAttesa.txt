@@ -1,0 +1,45 @@
+Paths All One Loop Paths Coverage Attesa 
+
+PATHS LUNGHEZZA 2 
+path 1
+cliccato menu tendina 
+selezionata lingua: English
+
+path 2
+cliccato menu tendina 
+selezionata lingua: Italian
+
+path 3
+cliccato menu tendina 
+selezionata lingua: Lithuanian
+
+path 4
+cliccato menu tendina 
+selezionata lingua: Urdu
+
+PATHS LUNGHEZZA 3 
+path 1
+cliccato menu tendina 
+selezionata lingua: English
+cliccato bottone: StartButton
+
+path 2
+cliccato menu tendina 
+selezionata lingua: Italian
+cliccato bottone: StartButton
+
+path 3
+cliccato menu tendina 
+selezionata lingua: Lithuanian
+cliccato bottone: StartButton
+
+path 4
+cliccato menu tendina 
+selezionata lingua: Urdu
+cliccato bottone: StartButton
+
+path 5
+cliccato bottone: StartButton
+cliccato bottone: Settings
+
+Test concluso senza errori 

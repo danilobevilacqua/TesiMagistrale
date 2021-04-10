@@ -1,0 +1,5 @@
+Unico paths All Transitions Coverage Marker 2 
+cliccato bottone: StartButton
+cliccato bottone: Settings
+cliccato bottone: ResumeButton
+Test concluso senza errori 

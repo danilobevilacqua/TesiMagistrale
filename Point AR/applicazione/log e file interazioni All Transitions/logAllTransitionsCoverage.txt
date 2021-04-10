@@ -1,0 +1,21 @@
+playbackspeed.Start
+AutoFocus.Start
+AutoFocus.OnVuforiaStarted
+translate.Start
+AutoFocus.OnPaused
+playbackspeed.Start
+AutoFocus.Start
+AutoFocus.OnVuforiaStarted
+translate.Start
+translate.myDropdownValueChangedHandler
+translate.myDropdownValueChangedHandler.if (target.value == 1)
+translate.myDropdownValueChangedHandler
+translate.myDropdownValueChangedHandler.if (target.value == 2)
+translate.myDropdownValueChangedHandler
+translate.myDropdownValueChangedHandler.if (target.value == 3)
+AutoFocus.OnPaused
+playbackspeed.Start
+AutoFocus.Start
+AutoFocus.OnVuforiaStarted
+translate.Start
+AutoFocus.OnPaused

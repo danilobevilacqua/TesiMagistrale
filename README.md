@@ -35,17 +35,55 @@ Si comincia installando gli ambienti necessari:
    - Livello API: 27;
    - RAM: 1536 MB;
    - Spazio di Archiviazione: 2048 MB interno + 512 MB SD-CARD.
+7. avviare il dispositivo e abilitare la modalità sviluppatore.
 
 ## Effettuazione test
 Di seguito si mostrerà come utilizzare gli ambienti sopraccitati per condurre i test su ciascuna delle due applicazioni AR.
 
 ### Safari Animal AR
-Di seguito saranno definiti i passi da seguire per importare l'applicazione Safari Animal AR in locale. Si noti che quanto sarà spiegato potrà essere bypassato scaricando direttamente il [file apk](https://github.com/danilobevilacqua/TesiMagistrale/blob/main/Safari%20Animal%20AR/applicazione/safari.apk). E' necessario scaricare dal repository [Safari AR](https://github.com/abdullahibneat/SafariAnimalsAR) e seguire le istruzioni della sezione How to use del medesimo repository. Successivamente bisognerà cambiare il marker seguendo i successivi passi:
+Di seguito saranno definiti i passi da seguire per importare l'applicazione Safari Animal AR in locale. Si noti che quanto sarà spiegato nella sezione Import Applicazione potrà essere bypassato scaricando direttamente il [file apk](https://github.com/danilobevilacqua/TesiMagistrale/blob/main/Safari%20Animal%20AR/applicazione/safari.apk), al fine di installarlo sul dispositivo virtuale mediante drag and drop. 
+#### Import applicazione
+E' necessario scaricare l'intero repository [Safari AR](https://github.com/abdullahibneat/SafariAnimalsAR) e seguire le istruzioni della sezione How to use del medesimo repository. Successivamente bisognerà cambiare il marker seguendo i successivi passi:
 1. aprire il progetto con UnityHub;
-1. selezionare il GameObject Image Target dalla gerarchia di oggetti;
-2. dalla sezione Inspector, alla voce Database selezionare VuforiaMars_Images e alla voce Image Target selezionare Astronaut;
+2. selezionare il GameObject Image Target dalla gerarchia di oggetti;
+3. dalla sezione Inspector, alla voce Database selezionare VuforiaMars_Images e alla voce Image Target selezionare Astronaut;
 
-A questo punto, dopo aver estratto dallo zip Poco-SDK dallo zip, è necessario importare tramite drag & drop all'interno del progetto, preferibilmente nella cartella Script, la cartella Unity3D e successivamente al suo interno sarà necessario cancellare le cartelle ngui e fairygui. Dopodichè bisognerà aggiungere lo script PocoManager alla ARCamera. In caso di errori assicurarsi che nella sezione Player Settings, nella tab Other Settings alla voce Scripting Runtime Version sia selezionato .Net 4.x Equivalent. Per quanto riguarda gli script, nella cartella Script del progetto Unity bisognerà aggiungere gli script contenti le sonde 
+A questo punto, dopo aver estratto dallo zip Poco-SDK dallo zip, è necessario importare tramite drag and drop all'interno del progetto, preferibilmente nella cartella Script, la cartella Unity3D e successivamente al suo interno sarà necessario cancellare le cartelle ngui e fairygui. Dopodichè bisognerà aggiungere lo script PocoManager alla ARCamera. In caso di errori assicurarsi che nella sezione Player Settings, nella tab Other Settings alla voce Scripting Runtime Version sia selezionato .Net 4.x Equivalent. Per quanto riguarda gli script, nella cartella Script del progetto Unity bisognerà aggiungere, mediante drag and drop, il file [SondaManager](https://github.com/danilobevilacqua/TesiMagistrale/blob/main/Safari%20Animal%20AR/script%20con%20sonde/SondaManager.cs) e invocare la sua funzione per negli altri script per inserire le sonde. Alternativamente è possibile sostituire i file presenti con quelli nella cartella [Script con sonde](https://github.com/danilobevilacqua/TesiMagistrale/tree/main/Safari%20Animal%20AR/script%20con%20sonde). Infine sarà necessario creare l'apk che dovrà essere seployato sul dispositivo virtuale e per farlo sono necessari i successivi passi:
+1. aprire Android Studio e avviare il dispositivo emulato precedentemente creato.
+2. dopo il suo avvio, in Unity cliccare sulla tab File e successivamente su Buil Settings
+3. cliccare su Android e poi su Switch Platform
+4. alla voce Run Device selezionare il dispositivo emulato
+5. cliccare su Build And Run
+
+Se tutto è andato a buon fine sul dispositivo emulato dovrebbe avviarsi l'applicazione. A questo punto sarà necessario posizionare il [marker](https://github.com/danilobevilacqua/TesiMagistrale/blob/main/Safari%20Animal%20AR/marker.jpg) sul tavolo o sulla parete della stanza virtuale. Per farlo bisognerà semplicemente cliccare sui tre puntini della barra associata al dispositivo. Nella nuova finestra che si aprirà selezionare la tab Camera e posizionare il marker preferibilmente sul tavolo e chiudere questa finestra. Spostarsi fino alla stanza in cui è presente il marker, inquadrarlo al fine di far comparire la scena di realtà aumentata. Si noti che lo sviluppatore ha previsto che tale applicazioni fissi l'orientamento dello smartphone in orizzontale.
+
+#### Test
+Per effettuare i test sarà necessario aprire il la cartella AirTestIDE (precedentemente posizionata sul Desktop) e avviare AirTestIDE.exe. all'avvio sarà necessario cliccare sul tasto skip della finestra che si aprirà oltre al prompt dei comandi. Una volta aperto l'IDE cliccare sulla tab File e successivamente Open per aprire lo script di test relativo al criterio di copertura desiderato. Prima di avviarlo:
+* assicurasi che il telefono sia collegato All'IDE. Per farlo basta cliccare sul tasto connect del accanto al nome del dispositivo Nella finestra Devices. Qualora il dispositivo non comparisse cliccare su refresh ADB;
+* assicurarsi che l'applicazione appena avviata punti il marker creando la scena di realtà aumentata;
+* assicurarsi di cancellare un eventuale precedente file di Log dalla memoria dello smartphone. Per farlo è necessario:
+  - cliccare su Settings;
+  - cliccare su Storage;
+  - cliccare su Internal shared Storage;
+  - cliccare su Files;
+  - cliccare su Android;
+  - cliccare su Data;
+  - cliccare su com.abdu.PointAR;
+  - cliccare su files;
+  - eliminare LogFiles.txt.
+
+Dopo aver effettuato i sopraccitati controlli, avviare lo script di test e attenderne la fine. Per visualizzare il report cliccare sulla tab Run e successivamente su View Report. Nella stessa cartella dello script sarà creato il file delle interazioni che definirà le interazioni effettuate per ogni path eseguito. A questo punto è fondamentale estrarre il file di log dallo smartphone. Per farlo è necessario utilizzare il programma [Analisi Log](https://github.com/danilobevilacqua/TesiMagistrale/blob/main/Analisi%20Log.jar), avendo cura di non chiudere il dispositivo emulato, effettuando i seguenti step:
+1. avviare Analisi Log;
+2. cliccare sul bottone Importa;
+3. inserire come nome package com.abdu.SafariAR;
+4. inserire come nome del file di log un qualsiasi nome che non contenga spazi e\o simboli;
+5. cliccare sul bottone Importa.
+
+Se tutto sarà andato a buon fine, sarà presente un messaggio di avvenuto caricamento, il file di log sarà stato cancellato dal dispositivo emulato e sarà presente sul desktop con il nome scelto. A questo punto sarà possibile caricare gli script al fine di valutarne la copertura. Per farlo è necessario cliccare sul bottone Carica Script e inserire i file,contenenti le sonde, da valutare (Autofocus, AnimalSpawn, AnimalsController). Dopo averli caricati sarà necessario cliccare su Analizza. Fatto ciò si aprirà una finestra che mostra quali rami sono stati eseguiti e quante volte e la percentuale di copertura dello script (rami eseguiti / rami totali). Nel caso in cui la percentuale di copertura fosse inferiore al 100% per ogni script sarà possibile cliccare il tasto Rami non eseguiti, che mostrerà quali rami del codice non sono stati eseguiti. Quanto descritto può essere effettuato per ognuno degli script di test (testAllTransionsCoverageNew.air, testAllTransionsCoverageEstesoNew.air, testAllStateCoverageNew.air, testAllOneLoopPathsCoverageNew.air). Si noti che è possibile bypassare l'esecuzione del test scaricando i log e i file delle interazioni da [qui](https://github.com/danilobevilacqua/TesiMagistrale/tree/main/Safari%20Animal%20AR/applicazione). Sarà possibile analizzare il file di log utilizzando il bottone Carica del programma Analisi Log che permette di caricare il file non dal dispositivo emulato ma dal PC.
+ 
+
+   
+
 
 
 

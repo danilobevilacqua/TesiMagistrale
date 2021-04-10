@@ -20,9 +20,42 @@ Similmente all'interno della cartella Point AR è presente:
 * le diverse tipologie di test condotti (testAllOneLoopPathsCoverageAttesa.air, testAllOneLoopPathsCoverageMarker1.air, testAllOneLoopPathsCoverageMarker2.air, testAllStatesCoverageMarker1.air, testAllStatesCoverageMarker2.air, testAllTransitionsCoverageAttesa.air, testAllTransitionsCoverageMarker1.air, testAllTransitionsCoverageMarker2.air);
 * i marker.
 
-
-
-
-Al fine di replicare i test effettuati, di seguito sarà effettuata una descrizione dettagliata di quanto necessario.
+Descritto il contenuto del repository, si passa a dettagliare come replicare quanto descritto nella tesi.
 
 ## Installazione Tools
+Si comincia installando gli ambienti necessari:
+1. installazione dell'engine unity versione 2018.4.30f1, scaricabile dal [sito ufficiale](https://unity3d.com/get-unity/download/archive)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

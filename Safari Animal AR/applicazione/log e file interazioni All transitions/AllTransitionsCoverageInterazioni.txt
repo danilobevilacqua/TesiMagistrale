@@ -1,0 +1,24 @@
+Unico paths All Transitions Coverage 
+bottone cliccato: Zebra
+bottone cliccato: Rhino
+bottone cliccato: Lion
+bottone cliccato: Gorilla
+bottone cliccato: Giraffe
+bottone cliccato: Elephant
+pad spostato: su
+pad spostato: su
+pad spostato: giu
+pad spostato: destra
+pad spostato: sinistra
+bottone cliccato: Zebra
+pad spostato: giu
+bottone cliccato: Rhino
+pad spostato: destra
+bottone cliccato: Lion
+pad spostato: sinistra
+bottone cliccato: Gorilla
+pad spostato: su
+bottone cliccato: Giraffe
+pad spostato: su
+bottone cliccato: Elephant
+Test concluso senza errori 

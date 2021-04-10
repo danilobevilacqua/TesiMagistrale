@@ -1,0 +1,1201 @@
+AnimalsController.start
+AutoFocus.start
+AutoFocus.OnVuforiaStarted
+AnimalSpawn.start
+AnimalSpawn.start.foreach(Transform t in transform)
+AnimalSpawn.start.foreach(Transform t in transform)
+AnimalSpawn.start.foreach(Transform t in transform)
+AnimalSpawn.start.foreach(Transform t in transform)
+AnimalSpawn.start.foreach(Transform t in transform)
+AnimalSpawn.start.foreach(Transform t in transform)
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0)
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0)
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0)
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0)
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0)
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0)
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0)
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0)
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0)
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0)
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0)
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0)
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0)
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0)
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0)
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0)
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0)
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AnimalsController.update
+AnimalsController.update.if (x != 0 || y != 0).else
+AutoFocus.OnPaused

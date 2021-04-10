@@ -1,0 +1,277 @@
+PATHS LUNGHEZZA 3 
+
+path 1
+bottone cliccato: Zebra
+
+path 2
+bottone cliccato: Rhino
+
+path 3
+bottone cliccato: Lion
+
+path 4
+bottone cliccato: Gorilla
+
+path 5
+bottone cliccato: Giraffe
+
+path 6
+bottone cliccato: Elephant
+
+PATHS LUNGHEZZA 4 
+path 1
+bottone cliccato: Zebra
+pad spostato: su
+
+path 2
+bottone cliccato: Zebra
+pad spostato: giu
+
+path 3
+bottone cliccato: Zebra
+pad spostato: destra
+
+path 4
+bottone cliccato: Zebra
+pad spostato: sinistra
+
+path 5
+bottone cliccato: Rhino
+pad spostato: su
+
+path 6
+bottone cliccato: Rhino
+pad spostato: giu
+
+path 7
+bottone cliccato: Rhino
+pad spostato: destra
+
+path 8
+bottone cliccato: Rhino
+pad spostato: sinistra
+
+path 9
+bottone cliccato: Lion
+pad spostato: su
+
+path 10
+bottone cliccato: Lion
+pad spostato: giu
+
+path 11
+bottone cliccato: Lion
+pad spostato: destra
+
+path 12
+bottone cliccato: Lion
+pad spostato: sinistra
+
+path 13
+bottone cliccato: Gorilla
+pad spostato: su
+
+path 14
+bottone cliccato: Gorilla
+pad spostato: giu
+
+path 15
+bottone cliccato: Gorilla
+pad spostato: destra
+
+path 16
+bottone cliccato: Gorilla
+pad spostato: sinistra
+
+path 17
+bottone cliccato: Giraffe
+pad spostato: su
+
+path 18
+bottone cliccato: Giraffe
+pad spostato: giu
+
+path 19
+bottone cliccato: Giraffe
+pad spostato: destra
+
+path 20
+bottone cliccato: Giraffe
+pad spostato: sinistra
+
+path 21
+bottone cliccato: Elephant
+pad spostato: su
+
+path 22
+bottone cliccato: Elephant
+pad spostato: giu
+
+path 23
+bottone cliccato: Elephant
+pad spostato: destra
+
+path 24
+bottone cliccato: Elephant
+pad spostato: sinistra
+
+path 25
+pad spostato: su
+pad spostato: su
+
+path 26
+pad spostato: su
+pad spostato: giu
+
+path 27
+pad spostato: su
+pad spostato: destra
+
+path 28
+pad spostato: su
+pad spostato: sinistra
+
+path 29
+pad spostato: giu
+pad spostato: su
+
+path 30
+pad spostato: giu
+pad spostato: giu
+
+path 31
+pad spostato: giu
+pad spostato: destra
+
+path 32
+pad spostato: giu
+pad spostato: sinistra
+
+path 33
+pad spostato: destra
+pad spostato: su
+
+path 34
+pad spostato: destra
+pad spostato: giu
+
+path 35
+pad spostato: destra
+pad spostato: destra
+
+path 36
+pad spostato: destra
+pad spostato: sinistra
+
+path 37
+pad spostato: sinistra
+pad spostato: su
+
+path 38
+pad spostato: sinistra
+pad spostato: giu
+
+path 39
+pad spostato: sinistra
+pad spostato: destra
+
+path 40
+pad spostato: sinistra
+pad spostato: sinistra
+
+path 41
+pad spostato: su
+bottone cliccato: Zebra
+
+path 42
+pad spostato: su
+bottone cliccato: Rhino
+
+path 43
+pad spostato: su
+bottone cliccato: Lion
+
+path 44
+pad spostato: su
+bottone cliccato: Gorilla
+
+path 45
+pad spostato: su
+bottone cliccato: Giraffe
+
+path 46
+pad spostato: su
+bottone cliccato: Elephant
+
+path 47
+pad spostato: giu
+bottone cliccato: Zebra
+
+path 48
+pad spostato: giu
+bottone cliccato: Rhino
+
+path 49
+pad spostato: giu
+bottone cliccato: Lion
+
+path 50
+pad spostato: giu
+bottone cliccato: Gorilla
+
+path 51
+pad spostato: giu
+bottone cliccato: Giraffe
+
+path 52
+pad spostato: giu
+bottone cliccato: Elephant
+
+path 53
+pad spostato: destra
+bottone cliccato: Zebra
+
+path 54
+pad spostato: destra
+bottone cliccato: Rhino
+
+path 55
+pad spostato: destra
+bottone cliccato: Lion
+
+path 56
+pad spostato: destra
+bottone cliccato: Gorilla
+
+path 57
+pad spostato: destra
+bottone cliccato: Giraffe
+
+path 58
+pad spostato: destra
+bottone cliccato: Elephant
+
+path 59
+pad spostato: sinistra
+bottone cliccato: Zebra
+
+path 60
+pad spostato: sinistra
+bottone cliccato: Rhino
+
+path 61
+pad spostato: sinistra
+bottone cliccato: Lion
+
+path 62
+pad spostato: sinistra
+bottone cliccato: Gorilla
+
+path 63
+pad spostato: sinistra
+bottone cliccato: Giraffe
+
+path 64
+pad spostato: sinistra
+bottone cliccato: Elephant
+Test concluso senza errori 

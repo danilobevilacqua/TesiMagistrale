@@ -36,7 +36,15 @@ Si comincia installando gli ambienti necessari:
    - RAM: 1536 MB;
    - Spazio di Archiviazione: 2048 MB interno + 512 MB SD-CARD.
 
+## Effettuazione test
+Di seguito si mostrerà come utilizzare gli ambienti sopraccitati per condurre i test su ciascuna delle due applicazioni AR.
 
+### Safari Animal AR
+Di seguito saranno definiti i passi da seguire per importare l'applicazione Safari Animal AR in locale. E' necessario scaricare dal repository [Safari AR](https://github.com/abdullahibneat/SafariAnimalsAR) e seguire le istruzioni della sezione How to use del medesimo repository. Successivamente bisognerà cambiare il marker:
+1. selezionare il GameObject Image Target;
+2. dalla sezione Inspector, alla voce Database selezionare VuforiaMars_Images e alla voce Image Target selezionare Astronaut;
+
+A questo punto, dopo aver estratto dallo zip Poco-SDK dallo zip, è necessario importare tramite drag & drop all'interno del progetto, preferibilmente nella cartella Script, la cartella Unity3D e successivamente al suo interno sarà necessario cancellare le cartelle ngui e fairygui. Dopodichè bisognerà aggiungere lo script PocoManager alla ARCamera. In caso di errori assicurarsi che nella sezione Player Settings, nella tab Other Settings alla voce Scripting Runtime Version sia selezionato .Net 4.x Equivalent. Per quanto riguarda gli script, nella cartella Script del progetto Unity bisognerà aggiungere gli script contenti le sonde 
 
 
 

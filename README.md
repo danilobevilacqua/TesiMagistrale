@@ -25,7 +25,7 @@ Descritto il contenuto del repository, si passa a dettagliare come replicare qua
 ## Installazione Tools
 Si comincia installando gli ambienti necessari:
 1. installazione dell'engine Unity versione 2018.4.30f1, scaricabile dal [sito ufficiale](https://unity3d.com/get-unity/download/archive). E' Necessario installare anche UnityHub (sempre dal medesimo link) poiché esso permette la gestione di diverse versioni di Unity e l'aggiunta di eventuali moduli;
-2. dopo aver installato UnityHub, avviarlo e scegliere la tab installs, cliccare i tre pallini relativi al box della versione Unity, cliccare Add Modules dal menù a tendina, spuntare Vuforia Augmented Reality e Android Build Support, infine cliccare Done. Una volta terminata l'installazione, nel box della versione Unity compariranno le relative icone dei moduli installati;
+2. dopo aver installato UnityHub, avviarlo e scegliere la tab '<installs>', cliccare i tre pallini relativi al box della versione Unity, cliccare Add Modules dal menù a tendina, spuntare Vuforia Augmented Reality e Android Build Support, infine cliccare Done. Una volta terminata l'installazione, nel box della versione Unity compariranno le relative icone dei moduli installati;
 3. scaricare AirTestIDE dal [sito ufficiale](https://airtest.netease.com/), estrarre il contenuto dello zip e posizionarlo sul Desktop. E' necessario posizionarlo sul Desktop al fine di permettere il corretto funzionamento degli script di test e del .jar Analisi Log;
 4. scaricare Poco-SDK dal [sito ufficiale](https://github.com/AirtestProject/Poco-SDK);
 5. installare Android Studio dal [sito ufficiale](https://developer.android.com/studio);
@@ -50,7 +50,7 @@ E' necessario scaricare, in formato zip, l'intero repository [Safari AR](https:/
 
 A questo punto, dopo aver estratto dallo zip Poco-SDK dallo zip, è necessario importare tramite drag and drop all'interno del progetto, preferibilmente nella cartella Script, la cartella Unity3D e successivamente al suo interno sarà necessario cancellare le cartelle ngui e fairygui. Dopodiché bisognerà aggiungere lo script PocoManager alla ARCamera. In caso di errori assicurarsi che nella sezione Player Settings, nella tab Other Settings alla voce Scripting Runtime Version sia selezionato .Net 4.x Equivalent. Per quanto riguarda gli script, nella cartella Script del progetto Unity bisognerà aggiungere, mediante drag and drop, il file [SondaManager](https://github.com/danilobevilacqua/TesiMagistrale/blob/main/Safari%20Animal%20AR/script%20con%20sonde/SondaManager.cs) e invocare la sua funzione negli altri script per inserire le sonde. Alternativamente è possibile sostituire i file presenti con quelli nella cartella [Script con sonde](https://github.com/danilobevilacqua/TesiMagistrale/tree/main/Safari%20Animal%20AR/script%20con%20sonde). Infine sarà necessario creare l'apk che dovrà essere deployato sul dispositivo virtuale e per farlo sono necessari i successivi passi:
 1. aprire Android Studio e avviare il dispositivo emulato precedentemente creato;
-2. dopo il suo avvio, in Unity cliccare sulla tab File e successivamente su Buil Settings;
+2. dopo il suo avvio, in Unity cliccare sulla tab File e successivamente su Buil Settings;'
 3. cliccare su Android e poi su Switch Platform;
 4. alla voce Run Device selezionare il dispositivo emulato;
 5. cliccare su Build And Run.

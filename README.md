@@ -25,7 +25,7 @@ Descritto il contenuto del repository, si passa a dettagliare come replicare qua
 ## Installazione Tools
 Si comincia installando gli ambienti necessari:
 1. installazione dell'engine Unity versione 2018.4.30f1, scaricabile dal [sito ufficiale](https://unity3d.com/get-unity/download/archive). E' Necessario installare anche UnityHub (sempre dal medesimo link) poiché esso permette la gestione di diverse versioni di Unity e l'aggiunta di eventuali moduli;
-2. dopo aver installato UnityHub, avviarlo e scegliere la tab '<installs>', cliccare i tre pallini relativi al box della versione Unity, cliccare Add Modules dal menù a tendina, spuntare Vuforia Augmented Reality e Android Build Support, infine cliccare Done. Una volta terminata l'installazione, nel box della versione Unity compariranno le relative icone dei moduli installati;
+2. dopo aver installato UnityHub, avviarlo e scegliere la tab `installs`, cliccare i tre pallini relativi al box della versione Unity, cliccare Add Modules dal menù a tendina, spuntare Vuforia Augmented Reality e Android Build Support, infine cliccare Done. Una volta terminata l'installazione, nel box della versione Unity compariranno le relative icone dei moduli installati;
 3. scaricare AirTestIDE dal [sito ufficiale](https://airtest.netease.com/), estrarre il contenuto dello zip e posizionarlo sul Desktop. E' necessario posizionarlo sul Desktop al fine di permettere il corretto funzionamento degli script di test e del .jar Analisi Log;
 4. scaricare Poco-SDK dal [sito ufficiale](https://github.com/AirtestProject/Poco-SDK);
 5. installare Android Studio dal [sito ufficiale](https://developer.android.com/studio);

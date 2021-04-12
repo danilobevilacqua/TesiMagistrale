@@ -84,7 +84,7 @@ Se tutto sarà andato a buon fine, sarà presente un messaggio di avvenuto caric
 #### Test mutanti
 I mutanti sono delle versioni dell'applicazione a cui sono stati iniettati degli errori. Nella fattispecie dell'applicazione in esame, ne sono stati creati due. 
 
-##### mutante 1
+##### Mutante 1
 Il mutante 1 prevede l'iniezione di un errore relativo al movimento dell'animale. In altre parole spostando il pad a destra l'animale si muove verso sinistra e viceversa. Tale errore è stato ottenuto modificando lo script AnimalsController. Quanto sarà detto potrà essere bypassato se si scarica l'[apk](https://github.com/danilobevilacqua/TesiMagistrale/blob/main/Safari%20Animal%20AR/mutante%201/safariErroreMovimentoMutante1.apk) del mutante e lo si installa, mediante drag and drop, sul dispositivo emulato. Per creare il mutante 1 è necessario:
 * avviare UnityHub aprendo il progetto Safari Animal AR;
 * all'interno di Unity, aprire la cartella `_Script` del progetto;
@@ -96,7 +96,7 @@ Il mutante 1 prevede l'iniezione di un errore relativo al movimento dell'animale
 In alternativa anziché modificare il file lo si può sostituire con quello già modificato, scaricabile da [qui](https://github.com/danilobevilacqua/TesiMagistrale/blob/main/Safari%20Animal%20AR/mutante%201/AnimalsController.cs). Una volta ottenuto il mutante bisognerà avviare AirTestIDE, collegare il dispositivo emulato e startare il file di test del criterio di copertura desiderato (rispettando quanto detto nella sezione precedente). Se lo script di test sarà in grado di rilevare l'errore, AirTestIDE mostrerà quale asserzione è fallita. In particolare, generando il report dello script, si vedrà chiaramente quale asserzioni sono state soddisfatte e quale ha causato l'errore. A riprova di quanto detto, anche il file delle interazioni (presente nella medesima cartella dello script avviato) non presenterà la stringa finale "Test concluso senza errori". Più precisamente, all'interno di tale file saranno presenti tutti i paths, con le relative interazioni, effettuati fino a prima del malfunzionamento. La sequenza di interazioni causa dell'errore sarà relativa esclusivamente all'ultimo path eseguito.
 
 
-##### mutante 2
+##### Mutante 2
 Il mutante 2 prevede l'iniezione di un errore relativo alla comparsa di più animali sulla scena. In particolare l'unico animale ad essere solo sulla scena sarà la zebra. Infatti, cliccando uno dei bottoni relativo a un qualsiasi altro animale esso sarà compresente con la zebra nella scena AR. Quanto sarà detto potrà essere bypassato se si scarica l'[apk](https://github.com/danilobevilacqua/TesiMagistrale/blob/main/Safari%20Animal%20AR/mutante%202/safariErroreAnimaliMutante2.apk) del mutante e lo si installa, mediante drag and drop, sul dispositivo emulato. Per creare il mutante 2 è necessario:
 * avviare UnityHub aprendo il progetto Safari Animal AR;
 * all'interno di Unity, aprire la cartella `_Script` del progetto;
@@ -121,7 +121,7 @@ Per eseguire i test saranno effettuati gli stessi passi mostrati in precedenza. 
 #### Test mutanti
 Così come nel caso precedente, anche per questa applicazione sono stati creati due mutanti. 
 
-##### mutante 1
+##### Mutante 1
 Il mutante 1 prevede l'iniezione di un errore relativo all'apertura del menù a tendina. In altre parole cliccando sul menù a tendina per selezionare la lingua, esso non sarà in grado di aprirsi per mostrare tutte le lingue disponibili per la traduzione. Quanto sarà detto potrà essere bypassato se si scarica l'[apk](https://github.com/danilobevilacqua/TesiMagistrale/blob/main/Point%20AR/mutante%201/pointARErroreDropdown.apk) del mutante e lo si installa, mediante drag and drop, sul dispositivo emulato. Per creare il mutante 1 è necessario:
 * avviare UnityHub aprendo il progetto Point AR;
 * all'interno di Unity, navigare la gerarchia di GameObject cliccando su `Canvas`, poi su `LanguageSelectionGroup` e infine su `Dropdown`;
@@ -130,7 +130,7 @@ Il mutante 1 prevede l'iniezione di un errore relativo all'apertura del menù a 
 
 Per eseguire gli script di test sul mutante, basterà seguire quanto descritto precedentemente.
 
-##### mutante 2
+##### Mutante 2
 Il mutante 2 prevede l'iniezione di un errore relativo alla traduzione del marker 1 in lituano. In altre parole selezionando la lingua lituana, il marker 1 non sarà tradotto nella lingua selezionata ma in italiano. Quanto sarà detto potrà essere bypassato se si scarica l'[apk](https://github.com/danilobevilacqua/TesiMagistrale/blob/main/Point%20AR/mutante%202/pointARErroreLituanoItaliano.apk) del mutante e lo si installa, mediante drag and drop, sul dispositivo emulato. Per creare il mutante 2 è necessario:
 * avviare UnityHub aprendo il progetto Point AR;
 * all'interno di Unity, aprire la cartella `_Script` del progetto;

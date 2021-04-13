@@ -68,7 +68,7 @@ Per effettuare i test sarà necessario aprire il la cartella `AirTestIDE` (prece
   - cliccare su `Files`;
   - cliccare su `Android`;
   - cliccare su `Data`;
-  - cliccare su `com.abdu.PointAR`;
+  - cliccare su `com.abdu.SafariAR`;
   - cliccare su `files`;
   - eliminare `LogFiles.txt`.
 

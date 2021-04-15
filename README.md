@@ -4,7 +4,7 @@ Prima di descrivere i passi mediante i quali replicare i test condotti, si illus
 * Safari Animal AR;
 * Point AR.
 
-Le due cartelle sono relative alle omonime applicazioni (raggiungibili al link [Safari AR](https://github.com/abdullahibneat/SafariAnimalsAR) e [Point AR](https://github.com/abdullahibneat/PointAR), che sono state utilizzate come casi di studio. All'interno della cartella Safari Animal AR è presente:
+Le due cartelle, Safari Animal AR e Point AR, sono relative alle omonime applicazioni ([Safari AR](https://github.com/abdullahibneat/SafariAnimalsAR) e [Point AR](https://github.com/abdullahibneat/PointAR)) che sono state utilizzate come casi di studio. All'interno della cartella Safari Animal AR è presente:
 * la cartella applicazione contenente l'apk e i file di log e delle interazioni per ciascuna tipologia di copertura (entrambi all'interno della rispettiva cartella);
 * la cartella mutante 1 contenente l'apk dell'applicazione modificata (è stato iniettato l'errore di movimento, ovvero spostando il pad a destra l'animale si sposta a sinistra e viceversa), i file delle interazioni all'interno delle rispettive cartelle e lo script modificato causa dell'errore;
 * la cartella mutante 2 contenente l'apk dell'applicazione modificata (è stato iniettato l'errore di molteplice presenza di animali sulla scena, ossia scegliendo un qualsiasi animale, che non sia la zebra, esso non sarà solo sulla scena ma sarà compresente con la zebra), i file delle interazioni all'interno delle rispettive cartelle e lo script modificato causa dell'errore;

@@ -1,6 +1,6 @@
 # Testing di applicazioni AR Mobile
-Prima di descrivere i passi mediante i quali replicare i test condotti, si illustrano i file e le cartelle presenti all'interno del repository. All'inizio della gerarchia sono presenti due cartelle e un file:
-* Analisi Log, file .jar, necessario per l'analisi dei file di log (come sarà mostrato di seguito);
+Prima di descrivere i passi mediante i quali replicare i test condotti, si illustrano i file e le cartelle presenti all'interno del repository. All'inizio della gerarchia sono presenti tre cartelle:
+* analisi log, contenente il file .jar, necessario per l'analisi dei file di log (come sarà mostrato di seguito), e la cartella del relativo codice sorgente;
 * Safari Animal AR;
 * Point AR.
 
@@ -72,7 +72,7 @@ Per effettuare i test sarà necessario aprire il la cartella `AirTestIDE` (prece
   - cliccare su `files`;
   - eliminare `LogFiles.txt`.
 
-Dopo aver effettuato i sopraccitati controlli, avviare lo script di test e attenderne la fine. Per visualizzare il report cliccare sulla tab `Run` e successivamente su `View Report`. Nella stessa cartella dello script sarà creato il file delle interazioni che definirà le interazioni effettuate per ogni path eseguito. A questo punto è fondamentale estrarre il file di log dallo smartphone. Per farlo è necessario utilizzare il programma [Analisi Log](https://github.com/danilobevilacqua/TesiMagistrale/blob/main/Analisi%20Log.jar), avendo cura di non chiudere il dispositivo emulato, effettuando i seguenti step:
+Dopo aver effettuato i sopraccitati controlli, avviare lo script di test e attenderne la fine. Per visualizzare il report cliccare sulla tab `Run` e successivamente su `View Report`. Nella stessa cartella dello script sarà creato il file delle interazioni che definirà le interazioni effettuate per ogni path eseguito. A questo punto è fondamentale estrarre il file di log dallo smartphone. Per farlo è necessario utilizzare il programma [Analisi Log](https://github.com/danilobevilacqua/TesiMagistrale/blob/main/analisi%20log/Analisi%20Log.jar), avendo cura di non chiudere il dispositivo emulato, effettuando i seguenti step:
 1. avviare `Analisi Log`;
 2. cliccare sul bottone `Importa`;
 3. inserire come nome package `com.abdu.SafariAR`;

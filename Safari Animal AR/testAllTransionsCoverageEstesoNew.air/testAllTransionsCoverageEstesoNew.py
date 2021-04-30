@@ -16,7 +16,8 @@ def avviaApp():
     
 def chiudiApp():
     keyevent("KEYCODE_APP_SWITCH")
-    keyevent("DEL")
+    os.system('cmd /c "cd '+os.environ['USERPROFILE']+'\\Desktop\\AirtestIDE\\airtest\\core\\android\\static\\adb\\windows & adb shell am force-stop com.abdu.SafariAR"')
+	os.system('cmd /c "cd '+os.environ['USERPROFILE']+'\\Desktop\\AirtestIDE\\airtest\\core\\android\\static\\adb\\windows & adb shell am kill com.abdu.SafariAR"')
     time.sleep(5)
         
 def inizializza():
@@ -57,7 +58,7 @@ def verificaAnimaleUnico():
     global nomeAnimaleAttualmentePresente
     
     for nome in listaAnimali:
-        if (nome != nomeAnimaleAttualmentePresente ):
+        if (nome != nomeAnimaleAttualmentePresente):
             specie = nome.split("_")[1].split("Skin")[0];
             assert_equal(poco(nome).exists(),False,specie+" non presente sulla scena");
 

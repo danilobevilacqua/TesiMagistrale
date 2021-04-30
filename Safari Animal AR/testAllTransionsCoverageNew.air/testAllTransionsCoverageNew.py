@@ -16,7 +16,8 @@ def avviaApp():
     
 def chiudiApp():
     keyevent("KEYCODE_APP_SWITCH")
-    keyevent("DEL")
+    os.system('cmd /c "cd '+os.environ['USERPROFILE']+'\\Desktop\\AirtestIDE\\airtest\\core\\android\\static\\adb\\windows & adb shell am force-stop com.abdu.SafariAR"')
+	os.system('cmd /c "cd '+os.environ['USERPROFILE']+'\\Desktop\\AirtestIDE\\airtest\\core\\android\\static\\adb\\windows & adb shell am kill com.abdu.SafariAR"')
     time.sleep(5)
         
 def inizializza():

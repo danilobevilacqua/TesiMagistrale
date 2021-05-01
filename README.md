@@ -30,11 +30,11 @@ Si comincia installando gli ambienti necessari:
 4. scaricare Poco-SDK dal [sito ufficiale](https://github.com/AirtestProject/Poco-SDK);
 5. installare Android Studio dal [sito ufficiale](https://developer.android.com/studio);
 6. dopo aver installato Android studio, avviarlo e creare un dispositivo virtuale con le seguenti caratteristiche:
-   - modello smartphone: Pixel 2;
-   - sistema operativo: Android 8.1 Oreo;
+   - Modello smartphone: Pixel 2;
+   - Sistema operativo: Android 8.1 Oreo;
    - Livello API: 27;
    - RAM: 1536 MB;
-   - Spazio di Archiviazione: 2048 MB interno + 512 MB SD-CARD.
+   - Spazio di archiviazione: 2048 MB interno + 512 MB SD-CARD.
 7. avviare il dispositivo e abilitare la modalità sviluppatore.
 
 ## Effettuazione test
@@ -59,7 +59,13 @@ Se tutto è andato a buon fine sul dispositivo emulato dovrebbe avviarsi l'appli
 
 #### Test
 Per effettuare i test sarà necessario aprire il la cartella `AirTestIDE` (precedentemente posizionata sul Desktop) e avviare `AirTestIDE.exe`. All'avvio sarà necessario cliccare sul tasto `skip` della finestra che si aprirà oltre al prompt dei comandi. Una volta aperto l'IDE cliccare sulla tab `File` e successivamente `Open` per aprire lo script di test relativo al criterio di copertura desiderato. Prima di avviarlo:
-* assicurarsi che il telefono sia collegato All'IDE. Per farlo basta cliccare sul tasto `connect` accanto al nome del dispositivo nella finestra Devices. Qualora il dispositivo non comparisse cliccare su ``refresh ADB`;
+* assicurarsi che il telefono sia collegato All'IDE. Per farlo basta cliccare sul tasto `connect` accanto al nome del dispositivo nella finestra Devices. Qualora il dispositivo non comparisse cliccare su ``refresh ADB`. Se, all'avvenuto collegamento del dispositivo con AirTestIDE, la memoria RAM satura il problema è dovuto al modo in cui vengono allocate le risorse per emulare la grafica del dispositivo. Per risolvere tale problema è necessario cambiare dispositivo emulato, creandolo con le seguenti caratteristiche:
+  - Modello smartphone: cliccare sul bottone `New Hardware profile`, lasciare tutte le impostazioni di default e infine cliccare `Finish`;
+  - Sistema operativo: Android 11.0 con ABI x86_64;
+  - Livello API: 30;
+  - Graphics: Software (da selezionare nella sezione `Emulated Performance` dopo la selezione del Sistema Operativo); 
+  - RAM: 1536;
+  - Spazio di archiviazione: 800 MB interno.
 * assicurarsi che l'applicazione appena avviata punti il marker creando la scena di realtà aumentata;
 * assicurarsi di cancellare un eventuale precedente file di Log dalla memoria dello smartphone. Per farlo è necessario:
   - cliccare su `Settings`;
